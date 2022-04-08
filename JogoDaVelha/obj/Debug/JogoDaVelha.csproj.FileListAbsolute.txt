@@ -1,0 +1,11 @@
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.frm_jogo_velha.resources
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+E:\OneDrive\1- Pessoal\0. Estudos\1. Faculdade\5ºSemestre\1. Programações Visuais\JogoDaVelha\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
